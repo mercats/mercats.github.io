@@ -82,3 +82,7 @@ amb la millora del seu entorn.
 ## Target Customer Profile
 
 <p align="center"><img src="https://github.com/mercats/mercats.github.io/blob/main/target.PNG" width="400" height="400"/></p>
+
+## Diagrama de Casos d'ús
+
+<p align="center"><img src="https://github.com/mercats/mercats.github.io/blob/main/diagrama_casos_uso.PNG" width="400" height="400"/></p>
