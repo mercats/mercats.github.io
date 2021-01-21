@@ -139,15 +139,15 @@ Seguidament durant tota la web, es poden observar temes de color blau que dinami
 <h4>Camino al Mercado</h4>
 <p>El objetivo de este juego es conducir el camión de camino al mercado, pero cuidado, los coches de la carretera van muy rápido y debes evitar chocar con ellos para seguir con vida. De vez en cuando aparecen corazones, intenta cojerlos para recuperar vidas, también intenta cojer los escudos que te vuelven invulnerable durante un tiempo, y ten en cuenta que los coches van aumentando de velocidad.</p>
 
-<img src="https://mercats.github.io/images/Game2_pic.PNG" width="300" height="200"/>
+<p align="center"><img src="https://mercats.github.io/images/Game2_pic.PNG" width="300" height="200"/></p>
 
 <h4>Treballa al mercat</h4>
 <p>Tendrás que ayudar a la dueña del mercado a repartir los productos a cada cliente, con cada reparto irá subiendo la dificultad del juego.</p>
 
-<img src="https://mercats.github.io/images/Game3_pic.PNG" width="300" height="200"/>
+<p align="center"><img src="https://mercats.github.io/images/Game3_pic.PNG" width="300" height="200"/></p>
 
 <h4>Delivery Man</h4>
 <p>Jugant a Delivery Man, simularàs a un repartidor que ha d'entregar les comandes a domicili, tot visquent les peripècies que aquest ha de realitzar per dur a terme la seva feina!
 Durant el joc tindràs tres minuts per a realitzar les entregues. Per aconseguir-ho hauràs d'agafar els productes que es mostraran al camió (entrant a la zona vermella) i portar-los a les cases que els solicitin (entrant a les zones verdes).</p>
 
-<img src="https://mercats.github.io/images/Game_pic.PNG" width="300" height="200"/>
+<p align="center"><img src="https://mercats.github.io/images/Game_pic.PNG" width="300" height="200"/></p>
