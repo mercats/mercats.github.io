@@ -128,7 +128,7 @@ Seguidament durant tota la web, es poden observar temes de color blau que dinami
 
 ## Descripció dels Jocs
 
-<h1>Reco-loco</h1>
+<h4>Reco-loco</h4>
 <p>Justo al salir del almacén, las puertas del camión que lleva la mercancía se han abierto y se han caído todas las cajas. Tu objetivo es colocar 200 cajas, si no llegas has perdido. Pulsa s o flecha abajo para bajar las piezas, a/flecha derecha y d/flecha izquierda para mover las piezas y w/flecha arriba para rotarlas. </p>
 
 <h1>Camino al Mercado</h1>
