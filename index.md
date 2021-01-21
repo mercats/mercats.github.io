@@ -126,6 +126,10 @@ Seguidament durant tota la web, es poden observar temes de color blau que dinami
 
 <p>Per la tipografía de la web hem escollit una font àmpliament coneguda per a tothom i fàcil de llegit. L'arial. Es una tipología a la que ens hi acostumem de petits, a l'escola i que podem trobar en molts llocs de l'entorn web. Les sever línies ben definides i lletres sense filigranes faciliten la lectura, derivant en una cómode experiencia d'usuari on aquest no ha de fer esforços per desxifrar tipología molt elaborada. Es un estil de lletra que encaixa amb la idea de la web. Senzill i elegant, sense floritures ni complicacions extres que puguin distreure la lectura i allunyar a l'usuari de l'objectiu. Pels jocs ens hem permés la llicència d'emprar una tipologia molt més divertida, un format de lletra que recorda als jocs de 8bits. Es un estil que els més veterans reconeixeràn amb nostàlgia mentre que els més petits ràpidament identificaràn amb un joc. Es un toc personal que considerem aporta un toc original i divertit a l'apartat de jocs que, a fi de comptes, són per això, per a divertir.</p>
 
+Exemple:
+<p style="font-family: Verdana;">arial</p>
+<p style="font-family: Arial;">ARIAL</p>
+
 ## Descripció dels Jocs
 
 <h4>Reco-loco</h4>
