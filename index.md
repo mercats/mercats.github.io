@@ -22,8 +22,8 @@ amb la millora del seu entorn.
 ● Donar a conèixer el Politècnics i l’equip creatiu.
 <p align="center"><img src="https://github.com/mercats/mercats.github.io/blob/main/fotos_y_descripcion.PNG" width="350"/></p>
 
-*   [Ciutat Vella]
-    *   [Mercat de la Barceloneta]
+*   Ciutat Vella
+    *   Mercat de la Barceloneta
     *   [Mercat de la Boqueria]
     *   [Mercat de Santa Caterina]
     *   [Flors de la Rambla NO ALI]
