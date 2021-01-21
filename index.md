@@ -90,3 +90,7 @@ amb la millora del seu entorn.
 ## Model relacional BD
 
 <p align="center"><img src="https://mercats.github.io/images/bd.PNG" width="500" height="300"/></p>
+
+## Model relacional BD
+
+<p align="center"><img src="https://mercats.github.io/images/bd.PNG" width="500" height="300"/></p>
