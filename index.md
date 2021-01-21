@@ -93,6 +93,6 @@ amb la millora del seu entorn.
 
 ## Maquetació Página Web
 
-# Landing Page
+### Landing Page
 
 <p align="center"><img src="https://mercats.github.io/images/landing.PNG" width="500" height="300"/></p>
