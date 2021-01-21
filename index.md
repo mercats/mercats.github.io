@@ -85,4 +85,4 @@ amb la millora del seu entorn.
 
 ## Diagrama de Casos d'ús
 
-<p align="center"><img src="https://github.com/mercats/mercats.github.io/blob/main/diagrama_casos_uso.PNG" width="400" height="400"/></p>
+<p align="center"><img src="https://github.com/mercats/mercats.github.io/blob/main/diagrama_casos_uso.PNG" width="500" height="400"/></p>
