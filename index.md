@@ -134,7 +134,7 @@ Seguidament durant tota la web, es poden observar temes de color blau que dinami
 <h4>Camino al Mercado</h4>
 <p>El objetivo de este juego es conducir el camión de camino al mercado, pero cuidado, los coches de la carretera van muy rápido y debes evitar chocar con ellos para seguir con vida. De vez en cuando aparecen corazones, intenta cojerlos para recuperar vidas, también intenta cojer los escudos que te vuelven invulnerable durante un tiempo, y ten en cuenta que los coches van aumentando de velocidad.</p>
 
-<h4>Treballa al mercat/h4>
+<h4>Treballa al mercat</h4>
 <p>Tendrás que ayudar a la dueña del mercado a repartir los productos a cada cliente, con cada reparto irá subiendo la dificultad del juego.</p>
 
 <h4>Delivery Man</h4>
