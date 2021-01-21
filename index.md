@@ -78,3 +78,7 @@ amb la millora del seu entorn.
 ## Mapa mental
 
 <p align="center"><img src="https://github.com/mercats/mercats.github.io/blob/main/mapa_mental.PNG" width="1000" height="500"/></p>
+    
+## Target Customer Profile
+
+<p align="center"><img src="https://github.com/mercats/mercats.github.io/blob/main/target.PNG" width="400" height="600"/></p>
