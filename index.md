@@ -96,3 +96,23 @@ amb la millora del seu entorn.
 ### Landing Page
 
 <p align="center"><img src="https://mercats.github.io/images/landing.PNG" width="500" height="300"/></p>
+
+### Main
+
+<p align="center"><img src="https://mercats.github.io/images/main.PNG" width="500" height="300"/></p>
+
+### Ofertes
+
+<p align="center"><img src="https://mercats.github.io/images/ofertes.PNG" width="500" height="300"/></p>
+
+### Jocs
+
+<p align="center"><img src="https://mercats.github.io/images/jocs.PNG" width="500" height="300"/></p>
+
+### Mercats
+
+<p align="center"><img src="https://mercats.github.io/images/mercats.PNG" width="500" height="300"/></p>
+
+### Qui Som
+
+<p align="center"><img src="https://mercats.github.io/images/qui_som.PNG" width="500" height="300"/></p>
