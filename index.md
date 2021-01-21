@@ -23,64 +23,57 @@ amb la millora del seu entorn.
 <p align="center"><img src="https://github.com/mercats/mercats.github.io/blob/main/fotos_y_descripcion.PNG" width="350"/></p>
 
 *   [Ciutat Vella]
-    *   [Mercat de la Barceloneta](#filosofía)
-    *   [Mercat de la Boqueria](#html-en-línea)
-    *   [Mercat de Santa Caterina](#escape-automático-para-caracteres-especiales) 
-● 
-○ 
-○ 
-○ 
-○ Flors de la Rambla NO ALI
-● L’Eixample
-
-○ Mercat de la Concepció
-○ Mercat de Fort Pienc
-○ Mercat del Ninot
-○ Mercat de la Sagrada Familia
-○ Mercat de Sant Antoni
-○ Dominical de Sant Antoni NO ALI
-○ Encants de Sant Antoni NO ALI
-○ Encants Barcelona - Fira de Bellcaire NO ALI
-● Sants-Monjuïc
-○ Mercat d'Hostafrancs
-○ Mercat de Sants
-● Les Corts
-○ Mercat de Les Corts
-● Sarrià-Sant Gervasi
-○ Mercat de Galvany
-○ Mercat de la Marina
-○ Mercat de Sant Gervasi
-○ Mercat de Sarrià
-○ Mercat de Les Tres Torres
-● Gràcia
-○ Mercat de l'Abaceria Central
-○ Mercat de l'Estrella
-○ Mercat de Lesseps
-○ Mercat de la Llibertat
-● Horta-Guinardó
-○ Mercat del Carmel
-○ Mercat del Guinardó
-○ Mercat d'Horta
-○ Mercat de Vall d'Hebron - Teixonera
-● Nou Barris
-○ Mercat de Canyelles
-○ Mercat de Ciutat Meridiana
-○ Mercat de la Guineueta
-○ Mercat de la Mercè
-○ Mercat de Montserrat
-○ Mercat de Núria
-○ Mercat de la Trinitat
-● Sant Andreu
-
-○ Mercat del Bon Pastor
-○ Mercat de Felip II
-○ Mercat de Sant Andreu
-● Sant Martí
-○ Mercat del Besòs
-○ Mercat del Clot
-○ Mercat de Poblenou
-○ Mercat de Provençals
-○ Mercat de Sant Martí
+    *   [Mercat de la Barceloneta]
+    *   [Mercat de la Boqueria]
+    *   [Mercat de Santa Caterina]
+    *   [Flors de la Rambla NO ALI]
+*   [L’Eixample]
+    *   [Mercat de la Concepció]
+    *   [Mercat de Fort Pienc]
+    *   [Mercat del Ninot]
+    *   [Mercat de la Sagrada Familia]
+    *   [Mercat de Sant Antoni]
+    *   [Dominical de Sant Antoni NO ALI]
+    *   [Encants Barcelona - Fira de Bellcaire NO ALI]
+*   [Sants-Monjuïc]
+    *   [Mercat d'Hostafrancs]
+    *   [Mercat de Sants]
+*   [Les Corts]
+    *   [Mercat de Les Corts]
+*   [Sarrià-Sant Gervasi]
+    *   [Mercat de Galvany]
+    *   [Mercat de la Marina]
+    *   [Mercat de Sant Gervasi]
+    *   [Mercat de Sarrià]
+    *   [Mercat de Les Tres Torres]
+*   [Gràcia]
+    *   [Mercat de l'Abaceria Central]
+    *   [Mercat de l'Estrella]
+    *   [Mercat de Lesseps]
+    *   [Mercat de la Llibertat]
+*   [Horta-Guinardó]
+    *   [Mercat del Carmel]
+    *   [Mercat del Guinardó]
+    *   [Mercat d'Horta]
+    *   [Mercat de Vall d'Hebron - Teixonera]
+*   [Nou Barris]
+    *   [Mercat de Canyelles]
+    *   [Mercat de Ciutat Meridiana]
+    *   [Mercat de la Guineueta]
+    *   [Mercat de la Mercè]
+    *   [Mercat de Montserrat]
+    *   [Mercat de Núria]
+    *   [Mercat de la Trinitat]
+*   [Sant Andreu]
+    *   [Mercat del Bon Pastor]
+    *   [Mercat de Felip II]
+    *   [Mercat de Sant Andreu]
+*   [Sant Martí]
+    *   [Mercat del Besòs]
+    *   [Mercat del Clot]
+    *   [Mercat de Poblenou]
+    *   [Mercat de Provençals]
+    *   [Mercat de Sant Martí]
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
