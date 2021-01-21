@@ -77,16 +77,16 @@ amb la millora del seu entorn.
     
 ## Mapa mental
 
-<p align="center"><img src="https://github.com/mercats/mercats.github.io/blob/main/mapa_mental.PNG" width="1000" height="500"/></p>
+<p align="center"><img src="https://mercats.github.io/images/mapa_mental.PNG" width="1000" height="500"/></p>
     
 ## Target Customer Profile
 
-<p align="center"><img src="https://github.com/mercats/mercats.github.io/blob/main/target.PNG" width="400" height="400"/></p>
+<p align="center"><img src="https://mercats.github.io/images/target.PNG" width="400" height="400"/></p>
 
 ## Diagrama de Casos d'ús
 
-<p align="center"><img src="https://github.com/mercats/mercats.github.io/blob/main/diagrama_casos_uso.PNG" width="500" height="400"/></p>
+<p align="center"><img src="https://mercats.github.io/images/diagrama_casos_uso.PNG" width="500" height="400"/></p>
 
 ## Model relacional BD
 
-<p align="center"><img src="https://github.com/mercats/mercats.github.io/blob/main/bd.PNG" width="500" height="300"/></p>
+<p align="center"><img src="https://mercats.github.io/images/bd.PNG" width="500" height="300"/></p>
