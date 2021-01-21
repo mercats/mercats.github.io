@@ -121,14 +121,14 @@ amb la millora del seu entorn.
 
 <p>Per la paleta de colors hem escollit un tema principalment clar (blanc) amb petits tocs de color. La navbar es presenta de color gris fosc, que contrasta amb els elements clars de la web. De forma instintiva l'usuari sap que existeix el menú de navegació i que aquest sol estar a la part superior, d'aquesta manera, al posar-la en un color que contrasta amb la resta de la pàgina, quan es busca, es troba ràpidament.
 Seguidament durant tota la web, es poden observar temes de color blau que dinamitzen i donen un toc d'acabat fresc a la web. El color blau es un color que no es gens agresiu, dona sensació de calma i frescor, objectius que precisament busquem en la web. A més a més, es un color al que estem molt acostumats, conservador, i com que el públic objectiu de la web son families, persones que no busquen amenaces i que vetllen per un entorn segur, ens hem decidit per un color que els recordi familiaritat i algo conegut, seguretat.</p>
-<img src="https://mercats.github.io/images/paleta_colores.PNG" width="500" height="300"/>
+<img src="https://mercats.github.io/images/paleta_colores.PNG" width="200" height="200"/>
 
 ## Tipografia
 
 <p>Per la tipografía de la web hem escollit una font àmpliament coneguda per a tothom i fàcil de llegit. L'arial. Es una tipología a la que ens hi acostumem de petits, a l'escola i que podem trobar en molts llocs de l'entorn web. Les sever línies ben definides i lletres sense filigranes faciliten la lectura, derivant en una cómode experiencia d'usuari on aquest no ha de fer esforços per desxifrar tipología molt elaborada. Es un estil de lletra que encaixa amb la idea de la web. Senzill i elegant, sense floritures ni complicacions extres que puguin distreure la lectura i allunyar a l'usuari de l'objectiu. Pels jocs ens hem permés la llicència d'emprar una tipologia molt més divertida, un format de lletra que recorda als jocs de 8bits. Es un estil que els més veterans reconeixeràn amb nostàlgia mentre que els més petits ràpidament identificaràn amb un joc. Es un toc personal que considerem aporta un toc original i divertit a l'apartat de jocs que, a fi de comptes, són per això, per a divertir.</p>
 
 Exemple:
-<img src="https://mercats.github.io/images/tipografia.PNG" width="500" height="300"/>
+<img src="https://mercats.github.io/images/tipografia.PNG" width="200" height="200"/>
 
 ## Descripció dels Jocs
 
