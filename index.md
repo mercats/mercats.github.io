@@ -93,7 +93,7 @@ amb la millora del seu entorn.
 
 ## Maquetació Página Web
 
-### <p align="center">Landing Page</p>
+### Landing Page
 
 <p align="center"><img src="https://mercats.github.io/images/landing.PNG" width="500" height="300"/></p>
 
@@ -116,3 +116,27 @@ amb la millora del seu entorn.
 ### Qui Som
 
 <p align="center"><img src="https://mercats.github.io/images/qui_som.PNG" width="500" height="300"/></p>
+
+## Paleta de colors
+
+<p>Per la paleta de colors hem escollit un tema principalment clar (blanc) amb petits tocs de color. La navbar es presenta de color gris fosc, que contrasta amb els elements clars de la web. De forma instintiva l'usuari sap que existeix el menú de navegació i que aquest sol estar a la part superior, d'aquesta manera, al posar-la en un color que contrasta amb la resta de la pàgina, quan es busca, es troba ràpidament.
+Seguidament durant tota la web, es poden observar temes de color blau que dinamitzen i donen un toc d'acabat fresc a la web. El color blau es un color que no es gens agresiu, dona sensació de calma i frescor, objectius que precisament busquem en la web. A més a més, es un color al que estem molt acostumats, conservador, i com que el públic objectiu de la web son families, persones que no busquen amenaces i que vetllen per un entorn segur, ens hem decidit per un color que els recordi familiaritat i algo conegut, seguretat.</p>
+
+## Tipografia
+
+<p>Per la tipografía de la web hem escollit una font àmpliament coneguda per a tothom i fàcil de llegit. L'arial. Es una tipología a la que ens hi acostumem de petits, a l'escola i que podem trobar en molts llocs de l'entorn web. Les sever línies ben definides i lletres sense filigranes faciliten la lectura, derivant en una cómode experiencia d'usuari on aquest no ha de fer esforços per desxifrar tipología molt elaborada. Es un estil de lletra que encaixa amb la idea de la web. Senzill i elegant, sense floritures ni complicacions extres que puguin distreure la lectura i allunyar a l'usuari de l'objectiu. Pels jocs ens hem permés la llicència d'emprar una tipologia molt més divertida, un format de lletra que recorda als jocs de 8bits. Es un estil que els més veterans reconeixeràn amb nostàlgia mentre que els més petits ràpidament identificaràn amb un joc. Es un toc personal que considerem aporta un toc original i divertit a l'apartat de jocs que, a fi de comptes, són per això, per a divertir.</p>
+
+## Descripció dels Jocs
+
+<h1>Reco-loco</h1>
+<p>Justo al salir del almacén, las puertas del camión que lleva la mercancía se han abierto y se han caído todas las cajas. Tu objetivo es colocar 200 cajas, si no llegas has perdido. Pulsa s o flecha abajo para bajar las piezas, a/flecha derecha y d/flecha izquierda para mover las piezas y w/flecha arriba para rotarlas. </p>
+
+<h1>Camino al Mercado</h1>
+<p>El objetivo de este juego es conducir el camión de camino al mercado, pero cuidado, los coches de la carretera van muy rápido y debes evitar chocar con ellos para seguir con vida. De vez en cuando aparecen corazones, intenta cojerlos para recuperar vidas, también intenta cojer los escudos que te vuelven invulnerable durante un tiempo, y ten en cuenta que los coches van aumentando de velocidad.</p>
+
+<h1>Treballa al mercat/h1>
+<p>Tendrás que ayudar a la dueña del mercado a repartir los productos a cada cliente, con cada reparto irá subiendo la dificultad del juego.</p>
+
+<h1>Delivery Man</h1>
+<p>Jugant a Delivery Man, simularàs a un repartidor que ha d'entregar les comandes a domicili, tot visquent les peripècies que aquest ha de realitzar per dur a terme la seva feina!
+Durant el joc tindràs tres minuts per a realitzar les entregues. Per aconseguir-ho hauràs d'agafar els productes que es mostraran al camió (entrant a la zona vermella) i portar-los a les cases que els solicitin (entrant a les zones verdes).</p>
