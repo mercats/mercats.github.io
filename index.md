@@ -134,7 +134,7 @@ Seguidament durant tota la web, es poden observar temes de color blau que dinami
 <h4>Reco-loco</h4>
 <p>Justo al salir del almacén, las puertas del camión que lleva la mercancía se han abierto y se han caído todas las cajas. Tu objetivo es colocar 200 cajas, si no llegas has perdido. Pulsa s o flecha abajo para bajar las piezas, a/flecha derecha y d/flecha izquierda para mover las piezas y w/flecha arriba para rotarlas. </p>
 
-<img src="https://mercats.github.io/images/Game1_pic.PNG" width="300" height="200"/>
+<p align="center"><img src="https://mercats.github.io/images/Game1_pic.PNG" width="300" height="200"/></p>
 
 <h4>Camino al Mercado</h4>
 <p>El objetivo de este juego es conducir el camión de camino al mercado, pero cuidado, los coches de la carretera van muy rápido y debes evitar chocar con ellos para seguir con vida. De vez en cuando aparecen corazones, intenta cojerlos para recuperar vidas, también intenta cojer los escudos que te vuelven invulnerable durante un tiempo, y ten en cuenta que los coches van aumentando de velocidad.</p>
