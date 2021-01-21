@@ -91,6 +91,8 @@ amb la millora del seu entorn.
 
 <p align="center"><img src="https://mercats.github.io/images/bd.PNG" width="500" height="300"/></p>
 
-## Model relacional BD
+## Maquetació Página Web
 
-<p align="center"><img src="https://mercats.github.io/images/bd.PNG" width="500" height="300"/></p>
+# Landing Page
+
+<p align="center"><img src="https://mercats.github.io/images/landing.PNG" width="500" height="300"/></p>
