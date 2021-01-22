@@ -107,7 +107,7 @@ amb la millora del seu entorn.
 
 ### Jocs
 
-<p align="center"><img src="https://mercats.github.io/images/jocs.PNG" width="500" height="300"/></p>
+<p align="center"><img src="https://mercats.github.io/images/juegos.PNG" width="500" height="300"/></p>
 
 ### Mercats
 
@@ -115,7 +115,7 @@ amb la millora del seu entorn.
 
 ### Qui Som
 
-<p align="center"><img src="https://mercats.github.io/images/qui_som.PNG" width="500" height="300"/></p>
+<p align="center"><img src="https://mercats.github.io/images/quienes_somos.PNG" width="500" height="300"/></p>
 
 ## Paleta de colors
 
