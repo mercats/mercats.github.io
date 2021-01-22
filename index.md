@@ -20,7 +20,7 @@ divulgatiu que ajudin a comprendre i difondre el missatge i valors de clients co
 amb la millora del seu entorn.
 
 ● Donar a conèixer el Politècnics i l’equip creatiu.
-<p align="center"><img src="/images/quienes_somos.PNG" width="700" height="600"/></p>
+<p align="center"><img src="https://mercats.github.io/images/quienes_somos.PNG" width="700" height="600"/></p>
 
 *   Ciutat Vella
     *   Mercat de la Barceloneta
