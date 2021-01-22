@@ -103,7 +103,7 @@ amb la millora del seu entorn.
 
 ### Ofertes
 
-<p align="center"><img src="https://mercats.github.io/images/ofertes.PNG" width="500" height="300"/></p>
+<p align="center"><img src="https://mercats.github.io/images/ofertas.PNG" width="500" height="300"/></p>
 
 ### Jocs
 
